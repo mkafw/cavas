@@ -1,0 +1,5 @@
+{
+  "name": "OpenCode Canvas",
+  "description": "A visual AI orchestration platform for managing OpenCode snippets and projects, featuring infinite canvas, n8n-style node connections, and intelligent code agents.",
+  "requestFramePermissions": []
+}
